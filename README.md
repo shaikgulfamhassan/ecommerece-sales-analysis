@@ -23,4 +23,3 @@ This project analyzes sales transaction data to identify top-performing product 
 1. Clone the repository.
 2. Install dependencies: `pip install pandas numpy matplotlib seaborn`
 3. Run the script: `python sales_analysis.py`
-4.
